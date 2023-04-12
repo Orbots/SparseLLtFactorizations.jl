@@ -1,0 +1,13 @@
+name = "SparseLLtFactorizations"
+uuid = "d98e93bc-9f6b-4b24-a6bd-737bf53fc0a8"
+authors = ["Michael Ewert <michael.ewert@embark-studios.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
